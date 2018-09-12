@@ -2,7 +2,7 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://danielrdz.github.io/",
+  "homepage": "https://danymar24.github.io/resume/",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.5.0",
