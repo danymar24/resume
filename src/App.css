@@ -1,28 +1,38 @@
 .App {
+  padding: 25px;
+  background-color: #ECEFF1;
+}
+
+.github-profile {
+  margin-top: 15px;
+}
+
+.github-profile ul {
   text-align: center;
+  padding: 0;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+.github-profile ul li {
+  display: inline-block;
+  text-align: center;
+  padding: 5px;
 }
 
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
+.github-profile ul li:hover {
+  background-color: #e1e1e1;
+  border-radius: 3px;
 }
 
-.App-title {
-  font-size: 1.5em;
+.github-profile a {
+  text-decoration: none;
+  color: black;
 }
 
-.App-intro {
-  font-size: large;
+.github-profile ul li a i {
+  display: block;
+  font-size: 26px;
 }
 
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.word-document {
+  margin-top: 15px;
 }
