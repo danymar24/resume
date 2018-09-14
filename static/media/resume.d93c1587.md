@@ -104,7 +104,7 @@ Developed the San Francisco CC mobile app developed with Apache Cordova using HT
 
 # Education
 --------
-## Chihuahua tecnology institute (Instituto Tecnologico de Chihuahua)
+## Chihuahua technology institute (Instituto Tecnologico de Chihuahua)
 ### Chihuahua, Mexico
 **Electronics Engineering** / Bachelors	January 2009 – July 2014
 
