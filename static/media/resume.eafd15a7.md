@@ -1,6 +1,6 @@
 # Summary
 
-- Front end developer with 7+ years of experience involved in all phases of Software Development Life Cycle.
+- Full stack developer with 7+ years of experience involved in all phases of Software Development Life Cycle.
 Extensive experience in the development and design of web applications.
 - Experience in developing Front end applications using Javascript, HTML5, CSS3 and Javascript frameworks as AngularJs, Angular 2+, React, React Native.
 - Experience building Single page applications using AngularJs, Angular 2+ and React.
@@ -22,7 +22,7 @@ Extensive experience in the development and design of web applications.
 ## Cognizant, Plano, TX.
 -------
 
-**Senior associate**, Front end developer, April 30, 2017 – Present
+**Senior associate**, Full stack developer, April 30, 2017 – Present
 
 ### Client 
 Toyota Motors North America, project Telematics
