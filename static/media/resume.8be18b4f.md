@@ -65,7 +65,8 @@ Technologies: **AngularJs**, **HTML5**, CSS3, **LESS**, Bootstrap 3
 Develop using Scrum Agile methodology
 Migration of the project from SVN structure to GIT.
 
-### SAENTI Global (Freelance)
+## SAENTI Global (Freelance)
+-------
 **Web developer**, **Mobile developer**, August 2011 – March 2016
 
 Technologies: **AngularJs**, **Angular**, Javascript, **Typescript**, HTML5, CSS3, **Sass**, Bootstrap 3, **Node**.js, **MongoDb**, Sails.js, **ExpressJs**, Nginx, Apache cordova, Ionic, 
@@ -109,6 +110,7 @@ Developed the San Francisco CC mobile app developed with Apache Cordova using HT
 **Electronics Engineering** / Bachelors	January 2009 – July 2014
 
 # Languages
+--------
 - English
 - Spanish
 
