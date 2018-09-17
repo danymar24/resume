@@ -7,7 +7,7 @@ function Word(props) {
             <CardContent>
                 <h2>Word</h2>
                 <p>You can download the resume on word document.</p>
-                <span><a href="/resume.docx">Word Document</a></span>
+                <span><a href="resume.docx" download>Word Document</a></span>
             </CardContent>
         </Card>
     );

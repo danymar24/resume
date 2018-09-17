@@ -12,7 +12,7 @@ const styles={
 
 const info={
     name: 'Daniel Rdz',
-    title: 'Front End Developer',
+    title: 'Full Stack Developer',
     phone: '(469) 774 35 71',
     email: 'danymar24@gmail.com',
     linkedIn: 'linkedin.com/in/danielrdzm/',
@@ -25,7 +25,7 @@ function Info(props) {
     const {classes} = props;
     return (
         <Card>
-            <CardMedia image="/images/danielrdz.jpg"
+            <CardMedia image="images/danielrdz.jpg"
                        title="Daniel Rdz"
                        className={classes.media} />
             <CardContent>
