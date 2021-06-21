@@ -25,6 +25,7 @@ class App extends Component {
             </Grid>
           </Grid>
           <Grid item xs={12} md={8}>
+            
             <Resume />
           </Grid>
         </Grid>
