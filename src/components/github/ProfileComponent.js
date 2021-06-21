@@ -19,7 +19,6 @@ class Profile extends React.Component {
                 <Card className="github-profile">
                     <CardContent>
                         <div>
-                            <a href={data.homeUrl} target="_blank" title={data.name || data.username}></a>
                             <h2><a href={data.homeUrl} title={data.username} target="_blank">Github</a></h2>
                         </div>
                         <div>

@@ -1,5 +1,4 @@
 import React from 'react';
-import { Card, CardContent } from '@material-ui/core';
 import Profile from './ProfileComponent';
 
 const API = 'https://api.github.com/users';

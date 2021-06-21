@@ -1,107 +1,134 @@
 # Summary
 
-- Full stack developer with 7+ years of experience involved in all phases of Software Development Life Cycle.
-Extensive experience in the development and design of web applications.
-- Experience in developing Front end applications using Javascript, HTML5, CSS3 and Javascript frameworks as AngularJs, Angular 2+, React, React Native.
-- Experience building Single page applications using AngularJs, Angular 2+ and React.
-- Experience in developing Back end applications using Node.js frameworks as Express.js, Sails.js and MeteorJS.
+- Full Stack developer with 9+ years of experience involved in all phases of Software Development Life Cycle.
+- Extensive experience in the development and design of web applications.
+- Extensive experience in developing Single page Front end applications using Javascript, HTML5, CSS3 and Javascript frameworks as AngularJs, Angular 2+, React.
+- Extensive experience in developing Hybrid mobile applications using Ionic, Angular and Capacitor
+- Experience in developing Back end applications using Node.js frameworks as Express.js, Sails.js, MeteorJS, GraphQL and MongoDB
+- Experience designing and implementing Cloud Solutions for Frontend applications and Backend applications using Docker, Azure, DigitalOcean, AWS
 - Experience working on Agile environments using Scrum methodology.
-- Experience in Hibrid Mobile development using apache cordova and platforms as Ionic.
-- Experience developing mobile applications for Ios and Android using React Native.
 
 # Technical Skills
 ------
-**Web technologies**: **Javascript**, **Node.JS**, Express.js, MeteorJS, **AngularJs**, **Angular**, **React**, React Native, **Docker**, Azure, Flutter, **HTML5**, **CSS3**, Bootstrap, REST, Sockets.
-
+**Technologies**: **Javascript**, **Node.JS**, **Ionic**, Express.js, MeteorJS, **Angular**, React, GraphQL, Docker, Azure, AWS, Firebase, Ionic Appflow, Flutter, HTML5, CSS3, REST, Sockets.
 
 **Programming Languages**: Javascript, Typescript, Dart, C, C++, PHP.
-**Databases**: NoSql, MongoDb
-**Version control**: GIT, SVN
 
 # Work Experience
+## Norwex, Carrollton, TX.
+-------
+
+**Mobile Developer**, January 8, 2021 – Present
+
+**Project:** Shopping App  
+**Technologies:** **Ionic 4**, Angular 11, Typescript, Sass, PHP symfony backend, **Firebase**, **NGRX**, RXJS, **Internationalization**, Capacitor, AWS, Android, iOS, Ionic **Appflow**
+
+* In charge of the development of 2 major features for the shopping app.
+* In charge of the Australia/New Zealand app adaptation and release.
+* Reverse-engineered the current CI/CD build process, documented and suggested best practices.
+* Reconfigured the Ionic Appflow build process implementation using best practices.
+* Migrated the Monorepo applications to single repository applications.
+* Migrated Cordova plugins to Capacitor plugins.
+* The project was based on the framework Ionic 4.
+* Develop using best practices.
+* Develop using Kanban methodology
+
 ## Cognizant, Plano, TX.
 -------
 
-**Senior associate**, Full stack developer, April 30, 2017 – Present
+**Senior associate**, Full stack developer, April 30, 2018 – January 8, 2021
 
 ### Client 
-Toyota Motors North America, project Telematics
+Toyota Motors North America
 
-Technologies: **Angular** 6, Typescript, **HTML5**, **CSS3**, **Sass**, Bootstrap 4, Nginx, **Docker**, Azure
+**Project:** Admin Portal  
+**Technologies:** **Angular** 8, Typescript, HTML5, CSS3, Sass, Angular Material, Java API’s, **Redux**
 
->In charge of the analysis, development and testing of the Telematics Suport Tool.
-Design and architecture of the project during the analysis fase.
-Develop with best practices the project using the latest front end technologies as Angular, Sass and Bootstrap 4.
-In charge of the deployment of the project using technologies as Nginx, Azure and Docker.
+* In charge of analysis, design and development of the project Admin portal.
+* The project was based on the framework angular 8 as front end and Java apis as backend.
+* Develop using best practices.
+* Develop using Scrum methodology
+
+**Project:** Telematics Support Tool  
+**Technologies:** **Angular** 8, **Typescript**, HTML5, CSS3, Sass, Bootstrap 4, Nginx, GraphQL, **Docker**, Azure, **Ionic**, Apache Cordova, Flutter
+
+* In charge of the analysis, development and testing of the Telematics Support Tool.
+* Design and architecture of the project during the analysis phase.
+* Develop using Scrum Agile methodology.
+* Develop with best practices the project using the latest front end technologies as Angular, Sass and Bootstrap 4.
+* In charge of the deployment of the project using technologies such as Nginx, Azure and Docker.
+* Converted the web application to a hybrid mobile application using ionic.
 
 ## Cognizant, Carrolton, TX.
 ---------
 **Senior associate**, Front end developer, March 27, 2017 – April 27, 2018
 
 ### Client 
-Thomson Reuters, project Indirect Tax
+Thomson Reuters
 
-Technologies: **AngularJs**, **HTML5**, CSS3, **LESS**
+**Project:** Indirect Tax  
+**Technologies**: **AngularJs**, **HTML5**, CSS3, **LESS**
 
->Developed UI application features with AngularJs and HTML5 including Unit tests for the features.
-In the project i created custom directives and components with AngularJS to extend the functionality of the features.
-Develop using Scrum Agile methodology.
-The project uses Wijmo to display data grids.
-In this project we use BENTO.UI as the style framework and LESS as CSS3 preprocessor.
-With the BENTO.UI framework the features developed are responsive.
-The development project is based on a Node.js application using GRUNT as task runner.
-This project uses GIT as version control system. 
+* Developed UI application features with AngularJs and HTML5 including Unit tests for the features.
+* In the project i created custom directives and components with AngularJS to extend the functionality of the features.
+* Develop using Scrum Agile methodology.
+* The project uses Wijmo to display data grids.
+* In this project we use BENTO.UI as the style framework and LESS as CSS3 preprocessor.
+* With the BENTO.UI framework the features developed are responsive.
+* The development project is based on a Node.js application using GRUNT as task runner.
+* This project uses GIT as version control system. 
 
 ## Infosys, Richarson, TX.
 -------					
 **Senior associate**, Front end developer, August 15, 2016 – March 25, 2017
 
 ### Client 
-AT&T, project AVPN
+AT&T  
+  
+**Project:** AVPN  
+**Technologies:** **AngularJs**, **HTML5**, CSS3, **LESS**, Bootstrap 3
 
-Technologies: **AngularJs**, **HTML5**, CSS3, **LESS**, Bootstrap 3
-
->In charge of the development of several AngularJs pages of the project, developing the logic to consume the data from a JAVA api, and using the AT&T styles framework using LESS as css preprocessor.
-Develop using Scrum Agile methodology
-Migration of the project from SVN structure to GIT.
+* In charge of the development of several AngularJs pages of the project, developing the logic to consume the data from a JAVA api, and using the AT&T styles framework using LESS as css preprocessor.
+* Develop using Scrum Agile methodology
+* Migration of the project from SVN structure to GIT.
 
 ## SAENTI Global (Freelance)
 -------
-**Web developer**, **Mobile developer**, August 2011 – March 2016
+**Web developer**, **Mobile developer**, August 2011 – March 2016  
 
-Technologies: **AngularJs**, **Angular**, Javascript, **Typescript**, HTML5, CSS3, **Sass**, Bootstrap 3, **Node**.js, **MongoDb**, Sails.js, **ExpressJs**, Nginx, Apache cordova, Ionic, 
+**Technologies:** **AngularJs**, **Angular**, Javascript, **Typescript**, HTML5, CSS3, **Sass**, Bootstrap 3, **Node**.js, **MongoDb**, Sails.js, **ExpressJs**, Nginx, Apache cordova, Ionic, 
 
->In charge of design Photoshop web designs
-Transform Photoshop web designs to fully functional and responsive websites using HTML5, CSS3, Javascript and Bootstrap 3 in the Front End
-Developed and designed Redwod Crossfit Gym management using in the backend Node.js, Sails.js, Express.js, Mongodb for the main Database, redis as the websockets and session database, Websockets (socket.io), Nginx, and in the front end AngularJs, HTML5, CSS3, Materialize and Sass as css preprocessor.
-Developed Redwod mobile app using Apache Cordova, Ionic, HTML5, CSS3, Javascript and frameworks as AngularJs and websockets(socket.io), this app consumes the Redwod web api.
+* In charge of design Photoshop web designs
+* Transform Photoshop web designs to fully functional and responsive websites using HTML5, CSS3, Javascript and Bootstrap 3 in the Front End
+* Developed and designed Redwod Crossfit Gym management using in the backend Node.js, Sails.js, Express.js, Mongodb for the main Database,  redis as the websockets and session database, Websockets (socket.io), Nginx, and in the front end AngularJs, HTML5, CSS3, Materialize and  Sass as css preprocessor.
+* Developed Redwod mobile app using Apache Cordova, Ionic, HTML5, CSS3, Javascript and frameworks as AngularJs and websockets(socket.io), this app consumes the Redwod web api.
 
->Developed im management system using the backend Node.js, Sails.js, Express.js, Mongodb for the main Database, redis as the websockets and session database, Websockets(socket.io), Nginx, and in the front end Angular.js, HTML5, CSS3, Bootstrap 3 and  Sass as css preprocessor.
-Used a private Git server as the version control system.
+* Developed im management system using the backend Node.js, Sails.js, Express.js, Mongodb for the main Database, redis as the websockets and session database, Websockets(socket.io), Nginx, and in the front end Angular.js, HTML5, CSS3, Bootstrap 3 and  Sass as css preprocessor.
+* Used a private Git server as the version control system.
 
 
 ## SYSCOM, Chihuahua Mexico
 ------
 **Support Engenieer**, January 13, 2016 – July 31, 2016
 
->In charge of give product support in the Access control area about the products SYSCOM sells, products as biometric Devices, RFID readers, Proximity readers, barrier gates, gate operators, interphone systems, access control panels. 
+* In charge of give product support in the Access control area about the products SYSCOM sells, products as biometric Devices, RFID readers, Proximity readers, barrier gates, gate operators, interphone systems, access control panels. 
 
 ## Buildbinder, Chihuahua Mexico
 -------
 **Mobile app developer**, August 5, 2015 – October 23, 2015
 
-Technologies: **Javascript**, **HTML5**, Ionic, **Angularjs**, CSS3, **Sass**
+**Technologies:** **Javascript**, **HTML5**, Ionic, **Angularjs**, CSS3, **Sass**
 
->In the mobile app team we designed, developed and build the Buildbinder mobile app v3 using the Apache cordova framework to compile the app created with HTML5, CSS3, Javascript, with web frameworks as AngularJs (Angular.js), Materialize for the styles using Sass as the css preprocessor and Ionic, this application consumed data from a C#, ASP.NET web api, this app was hosted in a private Git server.
+* In the mobile app team we designed, developed and build the Buildbinder mobile app v3 using the Apache cordova framework to compile the app created with HTML5, CSS3, Javascript, with web frameworks as AngularJs (Angular.js), Materialize for the styles using Sass as the css preprocessor and Ionic, this application consumed data from a C#, ASP.NET web api, this app was hosted in a private Git server.
 
 ## Xpectare Interactive Media
 --------
-**Front End developer** December 10, 2014 – August 4, 2015
+**Front End developer** December 10, 2014 – August 4, 2015  
 
-Technologies: **Javascript**, **HTML5**, Bootstrap 3, Wordpress, PHP, **Angularjs**, **Node**.js, Sails.js
+**Technologies:** **Javascript**, **HTML5**, Bootstrap 3, Wordpress, PHP, **Angularjs**, **Node**.js, Sails.js
 
->In charge of converting Photoshop web designs into responsive and fully operational HTML5, CSS3, Javascript websites with Bootstrap 3, using Wordpress as CMS.
-Developed the San Francisco CC mobile app developed with Apache Cordova using HTML5, CSS3, Javascript and frameworks as AngularJs, (Angular.js), this app consumes a Node.js web api created with Sails.js as Backend framework.
+* In charge of converting Photoshop web designs into responsive and fully operational HTML5, CSS3, Javascript websites with Bootstrap 3, using Wordpress as CMS.
+* Developed the San Francisco CC mobile app developed with Apache Cordova using HTML5, CSS3, Javascript and frameworks as AngularJs, (Angular.js), this app consumes a Node.js web api created with Sails.js as Backend framework.
 
 # Education
 --------

@@ -1,7 +1,7 @@
 import React from 'react';
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
-import { Typography, Grid, CardActionArea, CardMedia, withStyles } from '@material-ui/core';
+import { Typography, CardMedia, withStyles } from '@material-ui/core';
 import PropTypes from 'prop-types';
 
 const styles={
@@ -14,11 +14,20 @@ const info={
     name: 'Daniel Rdz',
     title: 'Full Stack Developer',
     phone: '(469) 774 35 71',
-    email: 'danymar24@gmail.com',
-    linkedIn: 'linkedin.com/in/danielrdzm/',
-    github: 'danymar24',
-    citizenship: 'U.S. Citizen',
-    location: 'Plano TX. 75025'
+    email: {
+        title: 'danymar24@gmail.com',
+        url: 'danymar24@gmail.com'
+    },
+    linkedIn: {
+        title: 'linkedin.com/in/danielrdzm/',
+        url: 'https://linkedin.com/in/danielrdzm/'
+    },
+    github: {
+        title: 'danymar24',
+        url: 'https://github.com/danymar24'
+    },
+    citizenship: 'U.S. Citizen (Authorized to work in the US for any employer)',
+    location: 'Plano TX. 75024'
 }
 
 function Info(props) {
@@ -39,13 +48,13 @@ function Info(props) {
                     Phone: {info.phone}
                 </Typography>
                 <Typography gutterBottom variant="body1" component="h3">
-                    Email: {info.email}
+                    Email: <a href={'mailto:' + info.email.url}>{info.email.title}</a>
                 </Typography>
                 <Typography gutterBottom variant="body1" component="h3">
-                    LinkedIn: {info.linkedIn}
+                    LinkedIn: <a target="_blank" href={info.linkedIn.url}>{info.linkedIn.url}</a>
                 </Typography>
                 <Typography gutterBottom variant="body1" component="h3">
-                    Github: {info.github}
+                    Github: <a target="_blank" href={info.github.url}>{info.github.title}</a>
                 </Typography>
                 <Typography gutterBottom variant="body1" component="h3">
                     Citizenship: {info.citizenship}

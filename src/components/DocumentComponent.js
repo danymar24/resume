@@ -1,7 +1,7 @@
 import React from 'react';
 import { Card, CardContent } from '@material-ui/core';
 
-function Word(props) {
+function Word() {
     return (
         <Card className="word-document">
             <CardContent>
