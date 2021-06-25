@@ -6,8 +6,6 @@ name: Node.js CI
 on:
   push:
     branches: [ master ]
-  pull_request:
-    branches: [ master ]
 
 jobs:
   build:
@@ -25,5 +23,7 @@ jobs:
       uses: actions/setup-node@v2
       with:
         node-version: ${{ matrix.node-version }}
+    - run: git config user.name "$GITHUB_ACTOR"
+    - run: git config user.email "${GITHUB_ACTOR}@bots.github.com"
     - run: npm ci
     - run: npm run deploy
