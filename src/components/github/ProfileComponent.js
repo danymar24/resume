@@ -6,7 +6,7 @@ class Profile extends React.Component {
         let data = this.props.data;
         let followers = `${data.homeUrl}/followers`;
         let repositories = `${data.homeUrl}?tab=repositories`;
-        let following = `${data.homeUrl}/following`;
+        
         if (data.notFound === 'Not Found')
             return (
                 <div className="notfound">
