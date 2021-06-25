@@ -24,7 +24,10 @@ See the section about [deployment](#deployment) for more information.
 
 ## Deployment
 
-To deploy run 
+Requirements: react-scripts installed as global
+
+To deploy run:
+
 ```
-npm run deploy
+$ npm run deploy
 ```

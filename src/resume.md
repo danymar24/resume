@@ -21,15 +21,17 @@
 **Mobile Developer**, January 8, 2021 – Present
 
 **Project:** Shopping App  
-**Technologies:** **Ionic 4**, Angular 11, Typescript, Sass, PHP symfony backend, **Firebase**, **NGRX**, RXJS, **Internationalization**, Capacitor, AWS, Android, iOS, Ionic **Appflow**
+**Technologies:** **Ionic 4**, Angular 11, Typescript, Sass, PHP symfony backend, **Firebase**, **NGRX**, RXJS, **Internationalization**, Capacitor, AWS, Android, iOS, Ionic **Appflow**, Cypress
 
-* In charge of the development of 2 major features for the shopping app.
-* In charge of the Australia/New Zealand app adaptation and release.
+* In charge of the development of major features for the shopping app.
+* In charge of the Australia/New Zealand app internationalization and release.
 * Reverse-engineered the current CI/CD build process, documented and suggested best practices.
 * Reconfigured the Ionic Appflow build process implementation using best practices.
 * Migrated the Monorepo applications to single repository applications.
 * Migrated Cordova plugins to Capacitor plugins.
-* The project was based on the framework Ionic 4.
+* Set up Cypress automation testing suite for QA
+* Project based on Ionic Framework 4.
+* Created AWS Lambda functions for data management.
 * Develop using best practices.
 * Develop using Kanban methodology
 
