@@ -22,9 +22,12 @@ jobs:
     - name: Configure git credentials
       # You may pin to the exact commit or the version.
       # uses: OleksiyRudenko/gha-git-credentials@6132cfce45156e2c1562673f9be1a91a575ce879
-      uses: OleksiyRudenko/gha-git-credentials@v2
+      uses: OleksiyRudenko/gha-git-credentials@v2-latest
       with:
         global: true
+        name: 'Daniel Rdz'
+        email: 'danymar24@gmail.com'
+        actor: 'DanielRdz'
         token: '${{ secrets.TOKEN }}'
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v2
