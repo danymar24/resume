@@ -28,6 +28,10 @@ jobs:
       # uses: OleksiyRudenko/gha-git-credentials@6132cfce45156e2c1562673f9be1a91a575ce879
       uses: OleksiyRudenko/gha-git-credentials@v2
       with:
+        global: true
+        name: 'Daniel Rodriguez'
+        email: 'danymar24@gmail.com'
+        actor: 'DanielRdz'
         token: '${{ secrets.TOKEN }}'
     - run: npm ci
     - run: npm run deploy
