@@ -29,9 +29,6 @@ class Profile extends React.Component {
                                 <li>
                                     <a href={repositories} target="_blank" title="Number Of Repository"><i>{data.repos}</i><span> Repositories</span></a>
                                 </li>
-                                <li>
-                                    <a href={following} target="_blank" title="Number Of Following"><i>{data.following}</i><span>Following</span></a>
-                                </li>
                             </ul>
                         </div>
                     </CardContent>
