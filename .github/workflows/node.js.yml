@@ -27,5 +27,7 @@ jobs:
       # You may pin to the exact commit or the version.
       # uses: OleksiyRudenko/gha-git-credentials@6132cfce45156e2c1562673f9be1a91a575ce879
       uses: OleksiyRudenko/gha-git-credentials@v2
+      with:
+        token: '${{ secrets.TOKEN }}'
     - run: npm ci
     - run: npm run deploy
