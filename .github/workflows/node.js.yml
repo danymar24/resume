@@ -28,6 +28,7 @@ jobs:
         name: 'Daniel Rdz'
         email: 'danymar24@gmail.com'
         actor: 'DanielRdz'
+        username: 'danymar24'
         token: '${{ secrets.TOKEN }}'
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v2
