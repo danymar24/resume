@@ -27,7 +27,7 @@ const info={
         url: 'https://github.com/danymar24'
     },
     citizenship: 'U.S. Citizen (Authorized to work in the US for any employer)',
-    location: 'Plano TX. 75024'
+    location: 'Aubrey TX. 76227'
 }
 
 function Info(props) {

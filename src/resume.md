@@ -18,22 +18,20 @@
 ## Norwex, Carrollton, TX.
 -------
 
-**Mobile Developer**, January 8, 2021 – Present
+**Lead Mobile Developer**, January 8, 2021 – Present
 
-**Project:** Shopping App  
-**Technologies:** **Ionic 4**, Angular 11, Typescript, Sass, PHP symfony backend, **Firebase**, **NGRX**, RXJS, **Internationalization**, Capacitor, AWS, Android, iOS, Ionic **Appflow**, Cypress
+**Project:** Shopping App & Consultant App
+**Technologies:** **Ionic 4**, Angular 11, Typescript, Sass, PHP symfony backend, **Firebase**, **NGRX**, RXJS, **Internationalization**, Capacitor, AWS, Android, iOS, Ionic **Appflow**, Gitlab, Cypress
 
-* In charge of the development of major features for the shopping app.
+* Develop, test, implement and maintain application software working with established processes and best practices.
+* Provide guidance and assistance to development and operational team members.
+* Be an active member of the Development team to contribute to team dynamics, ways of working and assisting with improvement opportunities
+* Work closely with business partners, project managers and team members to clearly define scope of work and provide accurate schedule estimates
+* Establish methods for code development within dev, test, prod environments for consistent methodology across releases using Gitlab and Appflow for CI/CD build process.
+* Manage activities of team members using AGILE methodology
 * In charge of the Australia/New Zealand app internationalization and release.
-* Reverse-engineered the current CI/CD build process, documented and suggested best practices.
-* Reconfigured the Ionic Appflow build process implementation using best practices.
-* Migrated the Monorepo applications to single repository applications.
-* Migrated Cordova plugins to Capacitor plugins.
-* Set up Cypress automation testing suite for QA
 * Project based on Ionic Framework 4.
 * Created AWS Lambda functions for data management.
-* Develop using best practices.
-* Develop using Kanban methodology
 
 ## Cognizant, Plano, TX.
 -------
