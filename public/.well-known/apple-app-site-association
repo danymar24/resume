@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "T4HM9FTY7L.com.norwex.mobile.customer",
+                "paths": [ "*"]
+            }
+        ]
+    }
+}
