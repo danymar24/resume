@@ -3,19 +3,19 @@
 - Full Stack developer with 9+ years of experience involved in all phases of Software Development Life Cycle.
 - Extensive experience in the development and design of web applications.
 - Extensive experience in developing Single page Front end applications using Javascript, HTML5, CSS3 and Javascript frameworks as AngularJs, Angular 2+, React.
-- Extensive experience in developing Hybrid mobile applications using Ionic, Angular and Capacitor
+- Extensive experience in developing Hybrid mobile applications using Ionic, Angular, Capacitor, React Native.
 - Experience in developing Back end applications using Node.js frameworks as Express.js, Sails.js, MeteorJS, GraphQL and MongoDB
-- Experience designing and implementing Cloud Solutions for Frontend applications and Backend applications using Docker, Azure, DigitalOcean, AWS
+- Experience designing and implementing Cloud Solutions for Frontend applications and Backend applications using Docker, Azure, DigitalOcean, AWS, Firebase
 - Experience working on Agile environments using Scrum methodology.
 
 # Technical Skills
 ------
-**Technologies**: **Javascript**, **Node.JS**, **Ionic**, Express.js, MeteorJS, **Angular**, React, GraphQL, Docker, Azure, AWS, Firebase, Ionic Appflow, Flutter, HTML5, CSS3, REST, Sockets.
+**Technologies**: **Javascript**, **Node.JS**, Ionic, Express.js, MeteorJS, **Angular**, React, **React Native**, **GraphQL**, Docker, Azure, AWS, Firebase, Ionic Appflow, Flutter, HTML5, CSS3, REST, Sockets.
 
 **Programming Languages**: Javascript, Typescript, Dart, C, C++, PHP.
 
 # Work Experience
-## Norwex, Carrollton, TX.
+## Norwex, Coppel, TX.
 -------
 
 **Lead Mobile Developer**, January 8, 2021 – Present
@@ -48,16 +48,19 @@ Toyota Motors North America
 * The project was based on the framework angular 8 as front end and Java apis as backend.
 * Develop using best practices.
 * Develop using Scrum methodology
+* Developed a POC to showcase the benefits of using GraphQL using Apollo Server.
 
 **Project:** Telematics Support Tool  
-**Technologies:** **Angular** 8, **Typescript**, HTML5, CSS3, Sass, Bootstrap 4, Nginx, GraphQL, **Docker**, Azure, **Ionic**, Apache Cordova, Flutter
+**Technologies:** **Angular** 8, **Typescript**, HTML5, CSS3, Sass, Bootstrap 4, Nginx, GraphQL, **Docker**, Azure, **Ionic**, Apache Cordova, React Native
 
 * In charge of the analysis, development and testing of the Telematics Support Tool.
 * Design and architecture of the project during the analysis phase.
 * Develop using Scrum Agile methodology.
 * Develop with best practices the project using the latest front end technologies as Angular, Sass and Bootstrap 4.
+* In charge of the migration of the backend api to GraphQL using Apollo Server and Apollo Client.
 * In charge of the deployment of the project using technologies such as Nginx, Azure and Docker.
 * Converted the web application to a hybrid mobile application using ionic.
+* Developed a POC using React Native to showcase the benefits and compare with different technologies.
 
 ## Cognizant, Carrolton, TX.
 ---------
