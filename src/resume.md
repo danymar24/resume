@@ -10,7 +10,7 @@
 
 # Technical Skills
 ------
-**Technologies**: **Javascript**, **Node.JS**, **Ionic**, Express.js, MeteorJS, **Angular**, React, React Native, GraphQL, Docker, Azure, AWS, Firebase, Ionic Appflow, Flutter, HTML5, CSS3, REST, Sockets.
+**Technologies**: **Javascript**, **Node.JS**, Ionic, Express.js, MeteorJS, **Angular**, React, **React Native**, **GraphQL**, Docker, Azure, AWS, Firebase, Ionic Appflow, Flutter, HTML5, CSS3, REST, Sockets.
 
 **Programming Languages**: Javascript, Typescript, Dart, C, C++, PHP.
 
