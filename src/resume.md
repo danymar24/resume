@@ -15,7 +15,7 @@
 **Programming Languages**: Javascript, Typescript, Dart, C, C++, PHP.
 
 # Work Experience
-## Norwex, Coppel, TX.
+## Norwex, Coppell, TX.
 -------
 
 **Lead Mobile Developer**, January 8, 2021 – Present
