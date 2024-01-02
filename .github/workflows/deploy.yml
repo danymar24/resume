@@ -24,14 +24,14 @@ jobs:
         email: 'danymar24@gmail.com'
         actor: 'DanielRdz'
         username: 'danymar24'
-        token: '${{ secrets.TOKEN }}'
+        token: '${{ secrets.GITHUB_TOKEN }}'
     - name: Use Node.js 14.
       uses: actions/setup-node@v2
       with:
         node-version: 14.x
-    - run: git config user.name "$GITHUB_ACTOR"
-    - run: git config user.email "${GITHUB_ACTOR}@bots.github.com"
-    - run: git remote set-url origin https://$GITHUB_ACTOR:${{ secrets.TOKEN }}@github.com/danymar24/resume.git
+    - run: git config user.name "Daniel Rdz"
+    - run: git config user.email "danymar24gmail.com"
+    - run: git remote set-url origin https://danymar24:${{ secrets.GITHUB_TOKEN }}@github.com/danymar24/resume.git
     - run: npm ci
     - run: npm run build
     - run: npm run deploy
