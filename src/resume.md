@@ -1,26 +1,52 @@
 # Summary
 
-- Full Stack developer with 9+ years of experience involved in all phases of Software Development Life Cycle.
-- Extensive experience in the development and design of web applications.
-- Extensive experience in developing Single page Front end applications using Javascript, HTML5, CSS3 and Javascript frameworks as AngularJs, Angular 2+, React.
-- Extensive experience in developing Hybrid mobile applications using Ionic, Angular, Capacitor, React Native.
-- Experience in developing Back end applications using Node.js frameworks as Express.js, Sails.js, MeteorJS, GraphQL and MongoDB
-- Experience designing and implementing Cloud Solutions for Frontend applications and Backend applications using Docker, Azure, DigitalOcean, AWS, Firebase
-- Experience working on Agile environments using Scrum methodology.
+Innovative **Mobile Solutions Architect** with a track record of designing and implementing mobile strategies that align with business objectives. Recognized for expertise in architecting end-to-end mobile solutions from conceptualization to deployment, optimizing performance, and ensuring optimal user engagement. Proficient in leveraging the latest technologies to create intuitive and responsive mobile applications. Experienced in collaborating with cross-functional teams, providing technical **leadership**, and driving successful project execution within strict timelines and budgets.
 
 # Technical Skills
 ------
-**Technologies**: **Javascript**, **Node.JS**, Ionic, Express.js, MeteorJS, **Angular**, React, **React Native**, **GraphQL**, Docker, Azure, AWS, Firebase, Ionic Appflow, Flutter, HTML5, CSS3, REST, Sockets.
+**Technologies**: **Javascript**, **Node.JS**, Ionic, **Angular**, React, **React Native**, **GraphQL**, CICD, Azure, AWS, Firebase, Ionic Appflow, Flutter, HTML5, CSS3, REST, Github, Github actions.
 
 **Programming Languages**: Javascript, Typescript, Dart, C, C++, PHP.
 
 # Work Experience
+
+## Children’s Health Systems of Texas, Aubrey, TX.
+-------
+
+**Mobile Solutions Architect**, January 2023 – Present
+
+**Project:** Digital Front Door, Multiple applications  
+**Technologies:** React, React-Native, Typescript, Node.js, Github actions, storybook, AWS, GraphQL, Detox, iOS, Android
+
+* Led a team of developers and designers in creating and enhancing multiple applications.
+* Defined architectural strategies and best practices for mobile development, ensuring scalability and performance optimization.
+* Collaborated with stakeholders and product owners to understand business needs and translated them into technical requirements and solutions.
+* Conducted code reviews, implemented DevOps practices, and maintained high coding standards.
+* Designed and enhanced processes to facilitate communication between internal teams and external teams
+
+## Lessen Inc. Aubrey, TX.
+-------
+
+**Lead Mobile Developer**, April 2022 – December 2022
+
+**Project:** Shopping App & Consultant App  
+**Technologies:** React, React-Native, Typescript, Node.js, NestJS, MongoDB, Github actions, redux, storybook, Fullstory, AWS, GraphQL, Jest, Detox, iOS, Android
+
+* Develop, test, implement and maintain application software working with established processes and best practices.
+* Provide guidance and assistance to development and operational team members.
+* Be an active member of the Development team to contribute to team dynamics, ways of working and assisting with improvement opportunities.
+* Design and architect mobile features, as offline support and app metrics.
+* In charge of setting up deployment processes using github actions, app store/playstore, app center.
+* Develop native app components for iOS and Android
+* Implementation of native iOS and Android components in React Native
+
+
 ## Norwex, Coppell, TX.
 -------
 
-**Lead Mobile Developer**, January 8, 2021 – Present
+**Lead Mobile Developer**, January, 2021 – April 2022
 
-**Project:** Shopping App & Consultant App
+**Project:** Shopping App & Consultant App  
 **Technologies:** **Ionic 4**, Angular 11, Typescript, Sass, PHP symfony backend, **Firebase**, **NGRX**, RXJS, **Internationalization**, Capacitor, AWS, Android, iOS, Ionic **Appflow**, Gitlab, Cypress
 
 * Develop, test, implement and maintain application software working with established processes and best practices.
@@ -36,7 +62,7 @@
 ## Cognizant, Plano, TX.
 -------
 
-**Senior associate**, Full stack developer, April 30, 2018 – January 8, 2021
+**Senior associate**, Full stack developer, April 2018 – January 2021
 
 ### Client 
 Toyota Motors North America
@@ -64,7 +90,7 @@ Toyota Motors North America
 
 ## Cognizant, Carrolton, TX.
 ---------
-**Senior associate**, Front end developer, March 27, 2017 – April 27, 2018
+**Senior associate**, Front end developer, March 2017 – April 2018
 
 ### Client 
 Thomson Reuters
@@ -83,7 +109,7 @@ Thomson Reuters
 
 ## Infosys, Richarson, TX.
 -------					
-**Senior associate**, Front end developer, August 15, 2016 – March 25, 2017
+**Senior associate**, Front end developer, August 2016 – March 2017
 
 ### Client 
 AT&T  
@@ -112,13 +138,13 @@ AT&T
 
 ## SYSCOM, Chihuahua Mexico
 ------
-**Support Engenieer**, January 13, 2016 – July 31, 2016
+**Support Engenieer**, January 2016 – July 2016
 
 * In charge of give product support in the Access control area about the products SYSCOM sells, products as biometric Devices, RFID readers, Proximity readers, barrier gates, gate operators, interphone systems, access control panels. 
 
 ## Buildbinder, Chihuahua Mexico
 -------
-**Mobile app developer**, August 5, 2015 – October 23, 2015
+**Mobile app developer**, August 2015 – October 2015
 
 **Technologies:** **Javascript**, **HTML5**, Ionic, **Angularjs**, CSS3, **Sass**
 
@@ -126,7 +152,7 @@ AT&T
 
 ## Xpectare Interactive Media
 --------
-**Front End developer** December 10, 2014 – August 4, 2015  
+**Front End developer** December 2014 – August 2015  
 
 **Technologies:** **Javascript**, **HTML5**, Bootstrap 3, Wordpress, PHP, **Angularjs**, **Node**.js, Sails.js
 

@@ -7,6 +7,7 @@ import Info from './components/InfoComponent';
 import Resume from './components/ResumeComponent';
 import Github from './components/github/GithubComponent';
 import Word from './components/DocumentComponent';
+import LastUpdate from './components/LastUpdate';
 
 class App extends Component {
   render() {
@@ -21,6 +22,9 @@ class App extends Component {
               </Grid>
               <Grid item xs={6} md={12}>
                 <Github />
+              </Grid>
+              <Grid item xs={6} md={12}>
+                <LastUpdate />
               </Grid>
             </Grid>
           </Grid>
