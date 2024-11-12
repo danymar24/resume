@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://danielr.dev",
   "dependencies": {
-    "@material-ui/core": "^3.0.3",
+    "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^3.0.1",
     "marked": "^0.5.0",
     "react": "^16.5.0",
