@@ -13,8 +13,9 @@ class App extends Component {
   render() {
     return (
       <main className='App'>
-        <Grid container spacing={16}>
-          <Grid item xs={12} md={4}>
+        <Grid container spacing={2}>
+          <Grid item md={1}></Grid>
+          <Grid item xs={12} md={3}>
             <Info classes={ {media: 'media'} }></Info>
             <Grid container spacing={16}>
               <Grid item xs={6} md={12}>
@@ -28,8 +29,7 @@ class App extends Component {
               </Grid>
             </Grid>
           </Grid>
-          <Grid item xs={12} md={8}>
-            
+          <Grid item xs={10} md={7}>
             <Resume />
           </Grid>
         </Grid>

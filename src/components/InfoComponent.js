@@ -6,7 +6,7 @@ import PropTypes from 'prop-types';
 
 const styles={
     media: {
-        height: 230
+        height: 400
     }
 }
 
@@ -26,7 +26,7 @@ const info={
         title: 'danymar24',
         url: 'https://github.com/danymar24'
     },
-    citizenship: 'U.S. Citizen (Authorized to work in the US for any employer)',
+    citizenship: 'U.S. Citizen',
     location: 'Aubrey TX. 76227'
 }
 
