@@ -13,7 +13,7 @@ class App extends Component {
   render() {
     return (
       <main className='App'>
-        <Grid container spacing={2}>
+        <Grid container spacing={16}>
           <Grid item md={1}></Grid>
           <Grid item xs={12} md={3}>
             <Info classes={ {media: 'media'} }></Info>
