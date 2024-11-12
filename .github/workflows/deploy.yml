@@ -32,6 +32,6 @@ jobs:
     - run: git config user.name "Daniel Rdz"
     - run: git config user.email "danymar24gmail.com"
     - run: git remote set-url origin https://danymar24:${{ secrets.GITHUB_TOKEN }}@github.com/danymar24/resume.git
-    - run: npm ci
+    - run: npm i
     - run: npm run build
     - run: npm run deploy
