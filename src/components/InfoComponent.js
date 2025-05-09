@@ -11,7 +11,7 @@ const styles={
 }
 
 const info={
-    name: 'Daniel Rdz',
+    name: 'Daniel Rodriguez',
     title: 'Senior Mobile Solutions Architect',
     phone: '(469) 774 35 71',
     email: {
@@ -35,7 +35,7 @@ function Info(props) {
     return (
         <Card>
             <CardMedia image="images/danielrdz.jpg"
-                       title="Daniel Rdz"
+                       title="Daniel Rodriguez"
                        className={classes.media} />
             <CardContent>
                 <Typography gutterBottom variant="headline" component="h2">
