@@ -12,7 +12,7 @@ const styles={
 
 const info={
     name: 'Daniel Rdz',
-    title: 'Full Stack Developer',
+    title: 'Senior Mobile Solutions Architect',
     phone: '(469) 774 35 71',
     email: {
         title: 'danymar24@gmail.com',
