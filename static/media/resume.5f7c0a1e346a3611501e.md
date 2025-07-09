@@ -1,6 +1,6 @@
 # **Summary**
 
-Innovative Senior Mobile Solutions Architect with a track record of designing and implementing **mobile strategies** that align with business objectives. Recognized for expertise in architecting end-to-end mobile solutions from conceptualization to deployment, optimizing performance, and ensuring optimal user engagement for customer-facing applications. Proficient in leveraging the latest technologies and committed to create intuitive and responsive mobile applications. Experienced in collaborating with cross-functional teams, **providing technical leadership**, and driving successful project execution within strict timelines and budgets.
+**Innovative Senior Solutions Architect** with a proven track record of designing and implementing comprehensive technology strategies that align with critical business objectives. Recognized for expertise in architecting robust, end-to-end solutions from conceptualization to deployment, optimizing system performance, and ensuring optimal user engagement for customer-facing applications across various platforms. Proficient in leveraging the latest technologies and committed to creating intuitive, scalable, and responsive enterprise solutions. Experienced in collaborating with cross-functional teams, providing technical leadership, and driving successful project execution within strict timelines and budgets.
 
 # **Accomplishments**
 
@@ -24,7 +24,9 @@ NoSql, MongoDb
 ## **Children’s Health Systems of Texas**
 
 Aubrey, TX.  
-* Senior Mobile Solutions Architect	January 2023 – Present*
+* Senior Solutions Architect    -   August 2024 – Present
+* Senior Mobile Solutions Architect -   January 2023 – August 2024
+* Interim Manager   -   July 2023 - November 2023
 
 **Technologies**  
 React, React-Native, Typescript, Node.js, Github actions, storybook, Azure, AWS, GraphQL, Detox, iOS, Android, Kotlin, Java, Swift
