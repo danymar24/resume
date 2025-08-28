@@ -24,22 +24,28 @@ NoSql, MongoDb
 ## **Children’s Health Systems of Texas**
 
 Aubrey, TX.  
-* Senior Solutions Architect    -   August 2024 – Present
-* Senior Mobile Solutions Architect -   January 2023 – August 2024
-* Interim Manager   -   July 2023 - November 2023
 
 **Technologies**  
 React, React-Native, Typescript, Node.js, Github actions, storybook, Azure, AWS, GraphQL, Detox, iOS, Android, Kotlin, Java, Swift
 
-* Successfully led cross-functional teams of developers and designers in the creation and enhancement of multiple applications, including Children’s Health Mobile app and Diabetes Advisor.  
-* Defined architectural strategies and best practices for mobile application development, ensuring scalability and performance optimization.  
-* Collaborated with stakeholders and product owners to understand business needs and translated them into technical requirements and solutions.  
-* Conducted code reviews, implemented DevOps practices, and maintained high coding standards.  
-* In charge of research and elaboration of digital architecture using sequence diagrams to ensure technical delivery using the latest mobile technologies.  
-* Designed and enhanced processes to facilitate communication between internal teams and external teams.  
-* Provide mentorship to Junior and Senior team members, supporting their professional growth and skill development.  
-* Developed backend architectures using the latest technologies to enhance performance.  
-* Work closely with software engineering teams to provide feedback and enhance enterprise architecture.
+* Senior Solutions Architect (Aug 2024 - Present)
+    * Interim Mobile Team Manager (Aug 2025 - Present)
+        * Provide ongoing leadership and operational management for the mobile development team, overseeing daily tasks, sprint planning, and performance to ensure a consistent and efficient workflow.
+        * Lead a key strategic initiative to enhance mobile app quality by designing and implementing an automated testing strategy, including technology and framework selection.
+        * Serve as the central point of contact for the mobile team, acting as a critical bridge between developers, stakeholders, and cross-functional departments to ensure clear communication and strategic alignment.
+    * As Senior Solutions Architect:
+        * Architected and led the complete replatforming of backend resources from AWS to Azure, a strategic initiative that streamlined infrastructure and enhanced system performance.
+        * Directed the architectural design and technical strategy for the Diabetes Advisor Mobile App and the Formcalc web application, critical tools for patient care used by both doctors and nurses.
+        * Developed and executed a comprehensive strategy for partnering with third-party development companies, overseeing vendor selection and project delivery to ensure successful outcomes.
+        * Provided architectural guidance and technical leadership to multiple cross-functional teams, ensuring alignment on technology standards and best practices.
+* Senior Mobile Solutions Architect (Jan 2023 - Aug 2024)
+    * Interim Mobile Team Manager (May 2023 - Oct 2023)
+        * Directed the "Digital Front Door" project, overseeing its successful execution and facilitating a smooth transition from third-party development to an in-house team.
+    * As Senior Mobile Solutions Architect:
+        * Designed and implemented scalable and robust mobile solutions aligned with company business goals, employing best practices and emerging technologies.
+        * Collaborated with multidisciplinary teams, including developers, designers, and stakeholders, to translate complex requirements into architectural designs.
+        * Provided technical leadership and guidance, ensuring adherence to architectural principles and standards throughout the development lifecycle.
+
 
 
 ## **Lessen Inc.**
