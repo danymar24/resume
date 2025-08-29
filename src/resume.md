@@ -1,47 +1,58 @@
 # **Summary**
 
-**Innovative Senior Solutions Architect** with a proven track record of designing and implementing comprehensive technology strategies that align with critical business objectives. Recognized for expertise in architecting robust, end-to-end solutions from conceptualization to deployment, optimizing system performance, and ensuring optimal user engagement for customer-facing applications across various platforms. Proficient in leveraging the latest technologies and committed to creating intuitive, scalable, and responsive enterprise solutions. Experienced in collaborating with cross-functional teams, providing technical leadership, and driving successful project execution within strict timelines and budgets.
+**Visionary technology leader with a proven record of driving digital transformation and innovation** to achieve critical business objectives.
+Experienced in building and leading high-performing teams, defining enterprise-wide technical strategy, and serving as a **key liaison between technology and executive leadership**.
+Expertise in architecting robust, end-to-end solutions from conceptualization to deployment, ensuring optimal user engagement and system performance across multiple platforms.
+Committed to fostering a culture of technical excellence and strategic collaboration to deliver intuitive, scalable, and responsive enterprise solutions.
+
 
 # **Accomplishments**
 
-* Successfully architected, proposed, and led the cross-functional team in the development of the Children’s Health flagship mobile application.  
-* Took the lead in enhancing Norwex’s mobile application, identifying key areas for improvement and leading the team in the development and implementation of new features.  
-* Successfully architected and led the development team in the creation of a customer care center application for Toyota Motors North America.
+* Architected and led the development of Children’s Health's flagship mobile application, driving a core strategic initiative that significantly enhanced patient engagement and care.
+* Directed the mobile application enhancement strategy for Norwex, improving the user experience and increasing feature adoption.
+* Led the architecture and development of the Telematics Support Tool, a critical application for the customer care center that reduced the time to find customer information by 80%, eliminating the need for multiple applications.
 
-# **Technical Skills**
 
-**Technologies**  
-Javascript, Node.JS, Ionic, Express.js, Angular, React, React Native, GraphQL, CICD, Azure, AWS, Firebase, Ionic Appflow, HTML5, CSS3, REST, Github, Github actions, Atlassian.
+# **Skills**
 
-**Programming Languages**  
-Javascript, Typescript, C, C++, PHP.
+**Leadership & Strategy**  
+Strategic Planning, Team Leadership & Mentorship, Vendor Management, Agile/Scrum Methodologies, Cross-Functional Collaboration, Budget Management, and Talent Acquisition.
 
-**Databases**  
-NoSql, MongoDb
+**Technologies & Frameworks**  
+* Cloud Platforms: Azure, AWS, Firebase
+* Mobile Development: React Native, Ionic, Ionic Appflow, iOS, Android
+* Front-end: Angular, React, HTML5, CSS3
+* Back-end: Node.js, Express.js, GraphQL
+* Languages: Javascript, Typescript, Python
+* DevOps & Tools: CI/CD, Github, Github Actions, Atlassian, REST
+* Databases: NoSql, MongoDb, Postgress, Cosmos, SQL
 
 # **Work Experience**
 
 ## **Children’s Health Systems of Texas**
 
 Aubrey, TX.  
+Senior Solutions Architect
 
 **Technologies**  
 React, React-Native, Typescript, Node.js, Github actions, storybook, Azure, AWS, GraphQL, Detox, iOS, Android, Kotlin, Java, Swift
 
-* Senior Solutions Architect (Aug 2024 - Present)
-    * Interim Mobile Team Manager (Aug 2025 - Present)
-        * Provide ongoing leadership and operational management for the mobile development team, overseeing daily tasks, sprint planning, and performance to ensure a consistent and efficient workflow.
-        * Lead a key strategic initiative to enhance mobile app quality by designing and implementing an automated testing strategy, including technology and framework selection.
-        * Serve as the central point of contact for the mobile team, acting as a critical bridge between developers, stakeholders, and cross-functional departments to ensure clear communication and strategic alignment.
-    * As Senior Solutions Architect:
-        * Architected and led the complete replatforming of backend resources from AWS to Azure, a strategic initiative that streamlined infrastructure and enhanced system performance.
+* **Senior Solutions Architect** (Aug 2024 - Present)
+    * **Interim Mobile Team Manager** (Aug 2025 - Present)
+        * Provided ongoing leadership and operational management for the mobile development team, ensuring a consistent and efficient workflow.
+        * Led a strategic initiative to enhance mobile app quality by implementing a new automated testing strategy.
+        * Served as the central point of contact for the mobile team, acting as a critical bridge between developers, stakeholders, and cross-functional teams.
+    * **As Senior Solutions Architect**:
+        * Directed the architectural replatforming of backend resources from AWS to Azure, a strategic initiative that streamlined infrastructure and enhanced system performance.
+        * Developed and executed a comprehensive strategy for partnering with third-party development companies, overseeing vendor selection and project delivery to ensure successful outcomes.
         * Directed the architectural design and technical strategy for the Diabetes Advisor Mobile App and the Formcalc web application, critical tools for patient care used by both doctors and nurses.
         * Developed and executed a comprehensive strategy for partnering with third-party development companies, overseeing vendor selection and project delivery to ensure successful outcomes.
         * Provided architectural guidance and technical leadership to multiple cross-functional teams, ensuring alignment on technology standards and best practices.
-* Senior Mobile Solutions Architect (Jan 2023 - Aug 2024)
-    * Interim Mobile Team Manager (May 2023 - Oct 2023)
+
+* **Senior Mobile Solutions Architect** (Jan 2023 - Aug 2024)
+    * **Interim Mobile Team Manager** (May 2023 - Oct 2023)
         * Directed the "Digital Front Door" project, overseeing its successful execution and facilitating a smooth transition from third-party development to an in-house team.
-    * As Senior Mobile Solutions Architect:
+    * **As Senior Mobile Solutions Architect**:
         * Designed and implemented scalable and robust mobile solutions aligned with company business goals, employing best practices and emerging technologies.
         * Collaborated with multidisciplinary teams, including developers, designers, and stakeholders, to translate complex requirements into architectural designs.
         * Provided technical leadership and guidance, ensuring adherence to architectural principles and standards throughout the development lifecycle.
@@ -51,41 +62,38 @@ React, React-Native, Typescript, Node.js, Github actions, storybook, Azure, AWS,
 ## **Lessen Inc.**
 
 Aubrey, TX.  
-*Lead Mobile developer	April 2022 – December 2022*
+*Lead Mobile developer*  
+April 2022 – December 2022
 
 **Technologies**  
 React, React-Native, Typescript, Node.js, NestJS, MongoDB, Github actions, redux, storybook, Fullstory, AWS, GraphQL, Jest, Detox, iOS, Android, Java, Swift, Kotlin
 
-* Successfully designed, developed, and implemented various processes and best practices to streamline operations and improve overall efficiency.  
-* Provide guidance and assistance to development and operational team members.  
-* Be an active member of the Development team to contribute to team dynamics, ways of working and assisting with improvement opportunities.  
-* Design and architect mobile features, as offline support and app metrics.  
-* Successfully implemented and optimized deployment processes using tools such as Github actions, app store/play store and appcenter to ensure efficient and reliable software delivery.  
-* Develop native app components for iOS and Android using Swift and Java/Kotlin
+* Led end-to-end architecture and development of multiple mobile applications from conceptualization to deployment, consistently exceeding performance and quality.
+* Provided mentorship and technical guidance to junior engineers.
+* Partnered with cross-functional teams to proactively identify and resolve integration challenges, ensuring the seamless delivery of high-quality features.
+
 
 ## **Norwex**
 
 Coppell, TX.  
-*Lead Mobile developer	January 2021 – April 2022*
+*Lead Mobile developer*  
+January 2021 – April 2022
 
 **Technologies**  
 Ionic 6, Angular 13, Typescript, Sass, PHP symfony backend, Firebase, NGRX, RXJS, Internationalization, Capacitor, AWS, Android, iOS, Ionic Appflow, Gitlab, Cypress, Tailwind CSS
 
-* Develop, test, implement and maintain mobile application software working with established processes and best practices.  
-* Provide guidance and assistance to development and operational team members.  
-* Be an active member of the Mobile Application Development team to contribute to team dynamics, ways of working and assisting with improvement opportunities.  
-* Work closely with business partners, project managers and team members to clearly define scope of work and provide accurate schedule estimates.  
-* Establish methods for mobile application development within dev, test, prod environments for consistent methodology across releases using Gitlab and Appflow for CI/CD build process.  
-* Manage activities of team members using agile development methodology.  
-* In charge of the Australia/New Zealand app **internationalization** and release.  
-* Work closely with the backend team to connect APIs to the mobile application.  
-* Created AWS Lambda functions for data management.  
-* iOS and Android app development using IONIC framework and Tailwind CSS for styling.
+* Directed the full software development lifecycle of the Norwex mobile application, overseeing development, testing, and implementation to ensure best practices and high-quality releases.
+* Led the mobile team in the internationalization and release of the application for the Australia and New Zealand markets.
+* Established and streamlined CI/CD processes using GitLab and Ionic Appflow to ensure consistent and efficient code releases across development, test, and production environments.
+* Provided strategic leadership and technical guidance to the mobile development team, fostering a high-performing environment and managing team activities using Agile methodologies.
+* Collaborated cross-functionally with business partners and project managers to define the scope of work and provide accurate schedule estimates, ensuring alignment on project goals.
+* Developed and maintained the mobile application using Ionic Framework and created AWS Lambda functions for efficient data management
 
 ## **Toyota Motors North America**
 
 Cognizant, Plano, TX.  
-*Senior associate, Full Stack developer	April 2018 – January 2021*
+*Senior associate, Full Stack developer*  
+April 2018 – January 2021
 
 **Technologies**  
 Angular 8, Typescript, HTML5, CSS3, Sass, Bootstrap 4, Nginx, GraphQL, Docker, Azure, Ionic, Apache Cordova, Ionic, React Native
@@ -101,7 +109,8 @@ Angular 8, Typescript, HTML5, CSS3, Sass, Bootstrap 4, Nginx, GraphQL, Docker, A
 ## **Thomson Reuters**
 
 Cognizant, Carrollton, TX.  
-*Senior associate, Front end developer	March 2017 – April 2018*
+*Senior associate, Front end developer*  
+March 2017 – April 2018
 
 **Technologies**  
 AngularJs, HTML5, CSS3, LESS, Node.JS, React
@@ -119,7 +128,8 @@ AngularJs, HTML5, CSS3, LESS, Node.JS, React
 ## **AT\&T**
 
 Infosys, Richarson, TX.					  
-*Senior associate, Front end developer	August 2016 – March 2017*
+*Senior associate, Front end developer*  
+August 2016 – March 2017
 
 **Technologies**  
 AngularJs, HTML5, CSS3, LESS, Bootstrap 3
@@ -130,10 +140,10 @@ AngularJs, HTML5, CSS3, LESS, Bootstrap 3
 
 ## **Other Experience**
 
-**Syscom** \- Support Engineer \- January 2015 \- August \- 2016  
-**Buildbinder** \- Mobile Developer \- August 2015 \- December \- 2015  
-**Xpectare** \- Mobile/Full Stack Developer \- December 2014 \- August 2015  
-**SaentiGlobal** \- Full Stack Developer \- 2011 \- 2016
+**Syscom** - Support Engineer - January 2015 - August - 2016  
+**Buildbinder** - Mobile Developer - August 2015 - December - 2015  
+**Xpectare** - Mobile/Full Stack Developer - December 2014 - August 2015  
+**Freelance** - Full Stack Developer - 2011 - 2016
 
 ## **Education**
 
@@ -143,5 +153,5 @@ AngularJs, HTML5, CSS3, LESS, Bootstrap 3
 
 ## **Languages**
 
-* English \- Fluent  
-* Spanish \- Native
+* English - Fluent  
+* Spanish - Native
