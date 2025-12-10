@@ -7,7 +7,7 @@ function Word() {
             <CardContent>
                 <h2>Word</h2>
                 <p>You can download the resume on word document.</p>
-                <span><a href="DanielRodriguez_Resume_SeniorSolutionsArchitect.docx" download>Word Document</a></span>
+                <span><a href="DanielRodriguez_Resume_12-10-2025.docx" download>Word Document</a></span>
             </CardContent>
         </Card>
     );

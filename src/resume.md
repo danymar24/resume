@@ -1,61 +1,39 @@
 # **Summary**
 
-**Visionary technology leader with a proven record of driving digital transformation and innovation** to achieve critical business objectives.
-Experienced in building and leading high-performing teams, defining enterprise-wide technical strategy, and serving as a **key liaison between technology and executive leadership**.
-Expertise in architecting robust, end-to-end solutions from conceptualization to deployment, ensuring optimal user engagement and system performance across multiple platforms.
-Committed to fostering a culture of technical excellence and strategic collaboration to deliver intuitive, scalable, and responsive enterprise solutions.
+**Senior Solutions Architect & Engineering Leader** with a dual background in **Enterprise Architecture** and **Operational Management**. Expert in transforming underperforming development teams by unifying technical governance with agile delivery metrics. Recently directed the turnaround of a mobile division, driving a **61% increase in sprint velocity** and an **80% reduction in critical defects** within 90 days. Proven ability to bridge the gap between executive strategy and engineering execution, delivering robust, high-risk clinical applications in regulated environments (HIPAA).
 
 
 # **Accomplishments**
 
-* Architected and led the development of Children’s Health's flagship mobile application, driving a core strategic initiative that significantly enhanced patient engagement and care.
-* Directed the mobile application enhancement strategy for Norwex, improving the user experience and increasing feature adoption.
-* Led the architecture and development of the Telematics Support Tool, a critical application for the customer care center that reduced the time to find customer information by 80%, eliminating the need for multiple applications.
+* **Strategic Turnaround & Velocity**: Directed the operational restructuring of the mobile engineering division, resulting in a **61% increase in sprint velocity** and a reduction in average feature cycle time from **15 days to 5 days** by integrating architectural validation into sprint planning. 
+* **Quality Engineering & Risk**: Architected a "Quality-First" delivery pipeline that reduced critical production bugs by 80% and cut testing cycle time by 50%. Successfully led the governance and release of high-risk clinical applications (Diabetes Advisor, Formcalc) by establishing automated testing and Clinical Risk protocols. 
+* **Enterprise Infrastructure Modernization**: Directed the architectural replatforming of backend resources from **AWS to Azure**, creating a scalable infrastructure that streamlined system performance for patient-facing tools. 
+* **Flagship Product Leadership**: Architected and led the development of **Children’s Health's flagship mobile application**, driving core strategic initiatives that enhanced patient engagement and care delivery.
 
 
-# **Skills**
-
-**Leadership & Strategy**  
-Strategic Planning, Team Leadership & Mentorship, Vendor Management, Agile/Scrum Methodologies, Cross-Functional Collaboration, Budget Management, and Talent Acquisition.
-
-**Technologies & Frameworks**  
-* Cloud Platforms: Azure, AWS, Firebase
-* Mobile Development: React Native, Ionic, Ionic Appflow, iOS, Android
-* Front-end: Angular, React, HTML5, CSS3
-* Back-end: Node.js, Express.js, GraphQL
-* Languages: Javascript, Typescript, Python
-* DevOps & Tools: CI/CD, Github, Github Actions, Atlassian, REST
-* Databases: NoSql, MongoDb, Postgress, Cosmos, SQL
+# **Core Competencies**:
+* **Engineering Leadership**: Technical Team Management, Agile Transformation, Vendor Management, Headcount Planning.
+* **Architecture & Cloud**: Solution Architecture, Azure Migration, AWS, React Native, Ionic, CI/CD Strategy.
+* **Risk & Governance**: Clinical Risk Mitigation, HIPAA Compliance, Release Governance, Automated Testing Strategy.
+* **Operational Excellence**: Sprint Velocity Optimization, KPI Tracking, Process Maturation (Jira, ServiceNow).
 
 # **Work Experience**
 
 ## **Children’s Health Systems of Texas**
 
 Aubrey, TX.  
-Senior Solutions Architect
+Senior Solutions Architect | Acting Mobile Engineering Manager
 
 **Technologies**  
 React, React-Native, Typescript, Node.js, Github actions, storybook, Azure, AWS, GraphQL, Detox, iOS, Android, Kotlin, Java, Swift
 
-* **Senior Solutions Architect** (Aug 2024 - Present)
-    * **Interim Mobile Team Manager** (Aug 2025 - Present)
-        * Provided ongoing leadership and operational management for the mobile development team, ensuring a consistent and efficient workflow.
-        * Led a strategic initiative to enhance mobile app quality by implementing a new automated testing strategy.
-        * Served as the central point of contact for the mobile team, acting as a critical bridge between developers, stakeholders, and cross-functional teams.
-    * **As Senior Solutions Architect**:
-        * Directed the architectural replatforming of backend resources from AWS to Azure, a strategic initiative that streamlined infrastructure and enhanced system performance.
-        * Developed and executed a comprehensive strategy for partnering with third-party development companies, overseeing vendor selection and project delivery to ensure successful outcomes.
-        * Directed the architectural design and technical strategy for the Diabetes Advisor Mobile App and the Formcalc web application, critical tools for patient care used by both doctors and nurses.
-        * Developed and executed a comprehensive strategy for partnering with third-party development companies, overseeing vendor selection and project delivery to ensure successful outcomes.
-        * Provided architectural guidance and technical leadership to multiple cross-functional teams, ensuring alignment on technology standards and best practices.
-
-* **Senior Mobile Solutions Architect** (Jan 2023 - Aug 2024)
-    * **Interim Mobile Team Manager** (May 2023 - Oct 2023)
-        * Directed the "Digital Front Door" project, overseeing its successful execution and facilitating a smooth transition from third-party development to an in-house team.
-    * **As Senior Mobile Solutions Architect**:
-        * Designed and implemented scalable and robust mobile solutions aligned with company business goals, employing best practices and emerging technologies.
-        * Collaborated with multidisciplinary teams, including developers, designers, and stakeholders, to translate complex requirements into architectural designs.
-        * Provided technical leadership and guidance, ensuring adherence to architectural principles and standards throughout the development lifecycle.
+Selected by executive leadership to assume full operational control of the mobile division during two critical transition periods (10+ months total), having authority over technical strategy, headcount planning, and vendor management.
+* **Operational Turnaround**: Transformed the engineering culture by integrating architectural governance into sprint planning, resulting in a **61% increase in sprint velocity** and a **40% reduction in average feature cycle time** (15 days to 5 days).
+* **Quality Engineering & Risk Governance**: Architected a "Quality-First" delivery pipeline that reduced critical production bugs by 80% (from 5/month to 1/month) and cut testing cycle time by 50% (3 days to 1.5 days).
+* **Clinical Product Delivery**: Directed the technical release strategy for high-risk clinical tools (**Children’s Health Mobile App**, **Diabetes Advisor**, **Formcalc**), managing cross-functional approvals (Legal, Privacy, Clinical) to ensure compliant, zero-downtime deployments.
+* **Infrastructure Modernization**: Directed the strategic replatforming of backend resources from **AWS to Azure**, creating a scalable infrastructure that streamlined system performance for patient-facing tools.
+* **Process Standardization**: Led the division-wide migration to **ServiceNow** as the unified engineering ticketing system, standardizing workflows across Development and QA to improve data visibility and prioritization.
+* **Strategic Vendor Management**: Developed and executed the partnership strategy for third-party development firms, overseeing selection and delivery to ensure alignment with internal architectural standards.
 
 
 
@@ -68,9 +46,9 @@ April 2022 – December 2022
 **Technologies**  
 React, React-Native, Typescript, Node.js, NestJS, MongoDB, Github actions, redux, storybook, Fullstory, AWS, GraphQL, Jest, Detox, iOS, Android, Java, Swift, Kotlin
 
-* Led end-to-end architecture and development of multiple mobile applications from conceptualization to deployment, consistently exceeding performance and quality.
-* Provided mentorship and technical guidance to junior engineers.
-* Partnered with cross-functional teams to proactively identify and resolve integration challenges, ensuring the seamless delivery of high-quality features.
+* **End-to-End Architecture**: Led the architecture and development of multiple mobile applications from conceptualization to deployment, ensuring scalability and performance.
+* **Cross-Functional Leadership**: Partnered with product and design teams to proactively identify integration challenges, resolving blockers early to ensure seamless delivery of high-quality features.
+* **Engineering Mentorship**: Provided technical guidance and mentorship to junior engineers, establishing best practices for code quality and maintainability
 
 
 ## **Norwex**
@@ -82,12 +60,9 @@ January 2021 – April 2022
 **Technologies**  
 Ionic 6, Angular 13, Typescript, Sass, PHP symfony backend, Firebase, NGRX, RXJS, Internationalization, Capacitor, AWS, Android, iOS, Ionic Appflow, Gitlab, Cypress, Tailwind CSS
 
-* Directed the full software development lifecycle of the Norwex mobile application, overseeing development, testing, and implementation to ensure best practices and high-quality releases.
-* Led the mobile team in the internationalization and release of the application for the Australia and New Zealand markets.
-* Established and streamlined CI/CD processes using GitLab and Ionic Appflow to ensure consistent and efficient code releases across development, test, and production environments.
-* Provided strategic leadership and technical guidance to the mobile development team, fostering a high-performing environment and managing team activities using Agile methodologies.
-* Collaborated cross-functionally with business partners and project managers to define the scope of work and provide accurate schedule estimates, ensuring alignment on project goals.
-* Developed and maintained the mobile application using Ionic Framework and created AWS Lambda functions for efficient data management
+* **Global Application Strategy**: Directed the mobile application enhancement strategy and led the internationalization and release for the Australia and New Zealand markets.
+* **DevOps & CI/CD**: Established and streamlined CI/CD processes using GitLab and Ionic Appflow, ensuring consistent and efficient code releases across development, test, and production environments.
+* **Agile Team Leadership**: Provided strategic leadership to the mobile development team, managing activities using Agile methodologies to foster a high-performing environment.
 
 ## **Toyota Motors North America**
 
