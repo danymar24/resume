@@ -1,6 +1,6 @@
 # **Summary**
 
-**Senior Solutions Architect & Engineering Leader** with a dual background in **Enterprise Architecture** and **Operational Management**. Expert in transforming underperforming development teams by unifying technical governance with agile delivery metrics. Recently directed the turnaround of a mobile division, driving a **61% increase in sprint velocity** and an **80% reduction in critical defects** within 90 days. Proven ability to bridge the gap between executive strategy and engineering execution, delivering robust, high-risk clinical applications in regulated environments (HIPAA).
+**Senior Solutions Architect & Engineering Leader** with a dual background in **Enterprise Architecture** and **Operational Management**. Expert in transforming underperforming development teams by unifying technical governance with agile delivery metrics. Recently directed the turnaround of a mobile division, driving a **61% increase in sprint velocity** and an **80% reduction in critical defects** within 90 days. Proven ability to bridge the gap between executive strategy and engineering execution, delivering scalable flagship mobile products that drive user engagement and revenue.
 
 
 # **Accomplishments**
