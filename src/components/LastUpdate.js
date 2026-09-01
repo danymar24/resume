@@ -5,7 +5,7 @@ function LastUpdate() {
     return (
         <Card>
             <CardContent>
-                <h2>Updated on: 7/31/2026</h2>
+                <h2>Updated on: 9/1/2026</h2>
             </CardContent>
         </Card>
     )

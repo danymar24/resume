@@ -12,8 +12,8 @@ const styles={
 
 const info={
     name: 'Daniel Rodriguez',
-    title: 'Senior Solutions Architect',
-    phone: '(469) 774 35 71',
+    title: 'Senior Full Stack Mobile Specialist & Cloud Engineer',
+    phone: '(469) 443-8703',
     email: {
         title: 'danymar24@gmail.com',
         url: 'danymar24@gmail.com'
